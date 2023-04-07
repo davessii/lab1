@@ -1,4 +1,4 @@
-f=open('app1.txt', 'w')
+f=open('app.txt', 'w')
 a = str(input())
 b = str(input())
 c = str(input())
